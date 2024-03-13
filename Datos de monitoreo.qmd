@@ -1,0 +1,24 @@
+--- 
+title: "Palmer Penguins"
+format: 
+  dashboard:
+    orientation: columns
+---
+
+## Column {width=60%}
+
+```{r}
+#| title: Base de datos iris
+
+head(iris, 10)
+```
+
+## Column {width=40%}
+
+```{r}
+5 + 5
+```
+
+```{r}
+5 + 10
+```

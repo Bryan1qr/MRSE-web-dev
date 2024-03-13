@@ -2,10 +2,12 @@ project:
   type: website
 
 website:
+  margin-header: suscribe.html
   title: "Pruebas-mrse"
   navbar:
     right:
       - about.qmd
+      - Datos de monitoreo.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
