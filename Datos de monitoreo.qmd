@@ -1,24 +1,41 @@
---- 
-title: "Palmer Penguins"
+---
+title: "Monitoreo hidrológico"
 format: 
   dashboard:
     orientation: columns
 ---
 
-## Column {width=60%}
-
 ```{r}
 #| title: Base de datos iris
+#| warning: false
+#| message: false
+#| include: false
+library(leaflet)
+library(tidyverse)
+```
 
+## Column {width="60%"}
+
+```{r}
+#| echo: false
 head(iris, 10)
 ```
 
-## Column {width=40%}
+## Column {width="40%"}
 
 ```{r}
-5 + 5
+#| echo: false
+iris %>% 
+  ggplot(aes(x = Species, y = Sepal.Length)) +
+  geom_boxplot() +
+  theme_minimal()
 ```
 
 ```{r}
-5 + 10
+#| title: Mapa web del MRSE
+#| #| echo: false
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R")
 ```

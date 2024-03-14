@@ -2,14 +2,16 @@ project:
   type: website
 
 website:
-  margin-header: suscribe.html
-  title: "Pruebas-mrse"
+  margin-footer: suscribe.html
+  title: "MRSE-H"
   navbar:
-    right:
-      - about.qmd
+    left:
+      - fotos.qmd
+      - noticias.qmd
       - Datos de monitoreo.qmd
+    links:
       - icon: github
-        href: https://github.com/
+        href: https://github.com/Bryan1qr/MRSE-web-dev/
       - icon: twitter
         href: https://twitter.com
 format:
