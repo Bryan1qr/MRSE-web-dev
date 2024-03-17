@@ -7,6 +7,13 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
+    "objectID": "noticias.html",
+    "href": "noticias.html",
+    "title": "Noticias",
+    "section": "",
+    "text": "Aquí te presentamos los eventos más destacados en los que se vió involucrado este MRSE-H. Al hacer clic en cualquiera de nuestras noticias se abrirá una pestaña que te brindará mas detalles.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPlantilla\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 10, 2024\n\n\nEquipo MRSE-H\n\n\n\n\n\n\n\n\n\n\n\n\nEPS ILO lidera el I Encuentro de la Plataforma de Buena Gobernanza en Mecanismos de Retribución por Servicios Ecosistémicos Hídricos\n\n\n\n\n\n\nnews\n\n\nPBG\n\n\nabril\n\n\n2023\n\n\n\n\n\n\n\n\n\nApr 14, 2023\n\n\nEquipo MRSE-H\n\n\n\n\n\n\n\n\n\n\n\n\nEPS ILO realiza la primera instalación de estación pluviométrica en subcuenca de Asana para fortalecer el MRSE-H\n\n\n\n\n\n\nasana\n\n\nmarzo\n\n\n2023\n\n\n\n\n\n\n\n\n\nMar 2, 2023\n\n\nEquipo MRSE-H\n\n\n\n\n\n\n\n\n\n\n\n\nEPS ILO avanza en la conservación del agua: 6 kilómetros de zanjas de infiltración en la subcuenca de Asana\n\n\n\n\n\n\nnews\n\n\nnoviembre\n\n\n2022\n\n\n\n\n\n\n\n\n\nNov 13, 2022\n\n\nEquipo MRSE-H\n\n\n\n\n\n\n\n\n\n\n\n\nEl equipo MRSE-H realiza charlas de sensibilización acerca de los MRSE-H y su importancia en la conservación y recuperación de los ecosistemas\n\n\n\n\n\n\nnews\n\n\n2022\n\n\nnoviembre\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\nEquipo MRSE-H\n\n\n\n\n\n\n\n\n\n\n\n\nEPS ILO S.A. avanza en la implementación de los MRSE-H para conservar los servicios ecosistémicos hídricos\n\n\n\n\n\n\nMRSE-H\n\n\nsetiembre\n\n\n2022\n\n\n\n\n\n\n\n\n\nSep 27, 2022\n\n\nEquipo MRSE\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sobre la página",
@@ -14,59 +21,52 @@
     "text": "EPS Ilo S.A. realiza la implementación del Plan de Intervención los MRSE en la Comunidad Campesina de Asana con la finalidad de conservación y recuperación de los Servicios Ecosistémicos Hídricos."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "EPS ILO S.A. avanza en la implementación de los MRSE-H para conservar los servicios ecosistémicos hídricos",
     "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "La iniciativa tiene como objetivo llevar a cabo acciones de conservación, recuperación y sostenibilidad. La EPS ha identificado la cuenca Tumilaca, específicamente la subcuenca de Asana, como un área prioritaria de intervención. Esta cuenca desempeña un papel fundamental en la cuenca Ilo-Moquegua, donde la EPS opera la bocatoma “El Canuto”, un punto vital de abastecimiento de agua para la población de Ilo. La implementación de los MRSE-H serán acciones destinadas a la preservación de los servicios ecosistémicos hídricos asegurando así un suministro sostenible de agua para la población de Ilo.\nVe a la publicación fuente aquí:"
   },
   {
-    "objectID": "Datos de monitoreo.html",
-    "href": "Datos de monitoreo.html",
-    "title": "Monitoreo hidrológico",
+    "objectID": "posts/pub2/index.html",
+    "href": "posts/pub2/index.html",
+    "title": "El equipo MRSE-H realiza charlas de sensibilización acerca de los MRSE-H y su importancia en la conservación y recuperación de los ecosistemas",
     "section": "",
-    "text": "head(iris, 10)\n\n   Sepal.Length Sepal.Width Petal.Length Petal.Width Species\n1           5.1         3.5          1.4         0.2  setosa\n2           4.9         3.0          1.4         0.2  setosa\n3           4.7         3.2          1.3         0.2  setosa\n4           4.6         3.1          1.5         0.2  setosa\n5           5.0         3.6          1.4         0.2  setosa\n6           5.4         3.9          1.7         0.4  setosa\n7           4.6         3.4          1.4         0.3  setosa\n8           5.0         3.4          1.5         0.2  setosa\n9           4.4         2.9          1.4         0.2  setosa\n10          4.9         3.1          1.5         0.1  setosa"
+    "text": "El equipo encargado de los MRSE-H está llevando a cabo una serie de charlas de sensibilización sobre la importancia de los mecanismos en la conservación y recuperación de los ecosistemas. Estas charlas buscan informar a la comunidad sobre la relevancia de los MRSE-H y cómo contribuyen a proteger nuestros recursos hídricos y garantizar un entorno saludable para las generaciones futuras. Mediante estas actividades educativas, se busca involucrar activamente a la población en la protección de los ecosistemas locales y fomentar una cultura de cuidado ambiental."
   },
   {
-    "objectID": "Datos de monitoreo.html#column",
-    "href": "Datos de monitoreo.html#column",
-    "title": "Monitoreo hidrológico",
+    "objectID": "posts/pub3/index.html",
+    "href": "posts/pub3/index.html",
+    "title": "EPS ILO avanza en la conservación del agua: 6 kilómetros de zanjas de infiltración en la subcuenca de Asana",
     "section": "",
-    "text": "head(iris, 10)\n\n   Sepal.Length Sepal.Width Petal.Length Petal.Width Species\n1           5.1         3.5          1.4         0.2  setosa\n2           4.9         3.0          1.4         0.2  setosa\n3           4.7         3.2          1.3         0.2  setosa\n4           4.6         3.1          1.5         0.2  setosa\n5           5.0         3.6          1.4         0.2  setosa\n6           5.4         3.9          1.7         0.4  setosa\n7           4.6         3.4          1.4         0.3  setosa\n8           5.0         3.4          1.5         0.2  setosa\n9           4.4         2.9          1.4         0.2  setosa\n10          4.9         3.1          1.5         0.1  setosa"
+    "text": "El Equipo MRSE-H de EPS ILO ha llevado a cabo la supervisión de los trabajos del Plan de Intervención de MRSE-H en la subcuenca de Asana, en colaboración con los comuneros locales. Como resultado de esta colaboración, se logró la excavación de 6 kilómetros de zanjas de infiltración. Estas acciones tienen como objetivo principal fomentar la siembra y cosecha del agua en la cabecera de la cuenca, lo que contribuirá significativamente al almacenamiento de agua. Este es un paso más hacia la conservación y recuperación de los recursos hídricos en el área, y demuestra el compromiso de la EPS ILO con la gestión sostenible del agua y el medio ambiente.\nMira la nota completa aquí:"
   },
   {
-    "objectID": "Datos de monitoreo.html#column-1",
-    "href": "Datos de monitoreo.html#column-1",
-    "title": "Monitoreo hidrológico",
-    "section": "Column",
-    "text": "Column\n\niris %&gt;% \n  ggplot(aes(x = Species, y = Sepal.Length)) +\n  geom_boxplot() +\n  theme_minimal()\n\n\n\n\n\n\n\n\n\nlibrary(leaflet)\nleaflet() %&gt;%\n  addTiles() %&gt;%  # Add default OpenStreetMap map tiles\n  addMarkers(lng=174.768, lat=-36.852, popup=\"The birthplace of R\")"
+    "objectID": "posts/pub1/index.html",
+    "href": "posts/pub1/index.html",
+    "title": "EPS ILO S.A. avanza en la implementación de los MRSE-H para conservar los servicios ecosistémicos hídricos",
+    "section": "",
+    "text": "La iniciativa tiene como objetivo llevar a cabo acciones de conservación, recuperación y sostenibilidad. La EPS ha identificado la cuenca Tumilaca, específicamente la subcuenca de Asana, como un área prioritaria de intervención. Esta cuenca desempeña un papel fundamental en la cuenca Ilo-Moquegua, donde la EPS opera la bocatoma “El Canuto”, un punto vital de abastecimiento de agua para la población de Ilo. La implementación de los MRSE-H serán acciones destinadas a la preservación de los servicios ecosistémicos hídricos asegurando así un suministro sostenible de agua para la población de Ilo.\nVe a la publicación fuente aquí:"
   },
   {
-    "objectID": "noticias.html",
-    "href": "noticias.html",
-    "title": "Noticias",
+    "objectID": "posts/pub4/index.html",
+    "href": "posts/pub4/index.html",
+    "title": "EPS ILO realiza la primera instalación de estación pluviométrica en subcuenca de Asana para fortalecer el MRSE-H",
     "section": "",
-    "text": "Aquí te presentamos los eventos más destacados en los que se vió involucrado este MRSE-H. Al hacer clic en cualquier en alguna de las noticias se abrirá una pestaña que te brindará mas detalles.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 13, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 10, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "EPS ILO ha dado un paso significativo en cumplimiento con el Plan de Intervención del MRSE-H al instalar la primera estación pluviométrica en la subcuenca de Asana. Esta iniciativa, forma parte del componente “Generación de información hidrológica“, inicio funcionamiento desde el 2 de febrero de 2023, recopilando datos de precipitación que serán fundamentales para una toma de decisiones. La Gerente General CPC Solange Agramonte, y el Gerente de Operaciones Ing. Adhemar Villena Carpio, demostraron su compromiso con el MRSE-H al verificar la instalación de la estación en colaboración con la Junta Directiva de la comunidad de Asana. Esta acción conjunta refleja el esfuerzo conjunto entre la EPS ILO y la comunidad local para fortalecer la gestión de los recursos hídricos y avanzar hacia un futuro más sostenible."
   },
   {
-    "objectID": "fotos.html",
-    "href": "fotos.html",
-    "title": "Nosotros",
+    "objectID": "posts/pub5/index.html",
+    "href": "posts/pub5/index.html",
+    "title": "EPS ILO lidera el I Encuentro de la Plataforma de Buena Gobernanza en Mecanismos de Retribución por Servicios Ecosistémicos Hídricos",
     "section": "",
-    "text": "Anterior\n\n\nSiguiente"
+    "text": "El equipo MRSE-H de EPS ILO organizó el primer encuentro de la Plataforma de Buena Gobernanza sobre los Mecanismos de Retribución por Servicios Ecosistémicos Hídricos de la EPS Ilo. Este evento reunió a diversos actores comprometidos con la promoción del cuidado de los ecosistemas hídricos y la sostenibilidad del servicio de agua potable. En la reunión participaron representantes clave del Ministerio del Ambiente (MINAM), SUNASS, SERNANP, Proyecto Especial Pasto Grande (PERPG), Municipalidad Provincial de Ilo, SENAMHI y la comunidad campesina de Asana. Durante el encuentro, se discutió la importancia de la plataforma y se delinearon planes para su implementación, con el objetivo de fomentar la participación de un mayor número de actores en la protección y gestión sostenible de los recursos hídricos en la región."
   },
   {
-    "objectID": "fotos.html#lo-que-hacemos",
-    "href": "fotos.html#lo-que-hacemos",
-    "title": "R Notebook",
+    "objectID": "posts/pub6/index.html",
+    "href": "posts/pub6/index.html",
+    "title": "Plantilla",
     "section": "",
-    "text": "Anterior\n\n\nSiguiente"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]

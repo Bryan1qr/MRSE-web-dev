@@ -1,16 +1,13 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/noticias.html",
     "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/posts/pub6/index.html",
+      "/posts/pub5/index.html",
+      "/posts/pub4/index.html",
+      "/posts/pub3/index.html",
+      "/posts/pub2/index.html",
+      "/posts/pub1/index.html"
     ]
   }
 ]
