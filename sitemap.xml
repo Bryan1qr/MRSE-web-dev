@@ -1,27 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Bryan1qr.github.io/MRSE-web-dev/posts/welcome/index.html</loc>
-    <lastmod>2024-03-13T15:37:16.263Z</lastmod>
+    <loc>https://Bryan1qr.github.io/MRSE-web-dev/posts/pub6/index.html</loc>
+    <lastmod>2024-03-17T15:53:50.048Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Bryan1qr.github.io/MRSE-web-dev/posts/pub4/index.html</loc>
+    <lastmod>2024-03-17T15:53:50.045Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Bryan1qr.github.io/MRSE-web-dev/posts/pub2/index.html</loc>
+    <lastmod>2024-03-17T15:53:50.027Z</lastmod>
   </url>
   <url>
     <loc>https://Bryan1qr.github.io/MRSE-web-dev/noticias.html</loc>
-    <lastmod>2024-03-13T23:25:28.901Z</lastmod>
+    <lastmod>2024-03-17T15:53:50.027Z</lastmod>
   </url>
   <url>
     <loc>https://Bryan1qr.github.io/MRSE-web-dev/fotos.html</loc>
-    <lastmod>2024-03-14T17:16:03.314Z</lastmod>
+    <lastmod>2024-03-17T15:53:50.027Z</lastmod>
   </url>
   <url>
     <loc>https://Bryan1qr.github.io/MRSE-web-dev/Datos de monitoreo.html</loc>
-    <lastmod>2024-03-14T17:03:06.559Z</lastmod>
+    <lastmod>2024-03-17T15:53:49.902Z</lastmod>
   </url>
   <url>
     <loc>https://Bryan1qr.github.io/MRSE-web-dev/index.html</loc>
-    <lastmod>2024-03-14T16:35:32.095Z</lastmod>
+    <lastmod>2024-03-17T15:54:01.799Z</lastmod>
   </url>
   <url>
-    <loc>https://Bryan1qr.github.io/MRSE-web-dev/posts/post-with-code/index.html</loc>
-    <lastmod>2024-03-13T15:37:16.263Z</lastmod>
+    <loc>https://Bryan1qr.github.io/MRSE-web-dev/posts/pub1/index.html</loc>
+    <lastmod>2024-03-17T15:53:50.027Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Bryan1qr.github.io/MRSE-web-dev/posts/pub3/index.html</loc>
+    <lastmod>2024-03-17T15:53:50.027Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Bryan1qr.github.io/MRSE-web-dev/posts/pub5/index.html</loc>
+    <lastmod>2024-03-17T15:53:50.046Z</lastmod>
   </url>
 </urlset>
