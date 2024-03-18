@@ -1,5 +1,6 @@
 ---
 title: "Noticias"
+lang: es
 listing:
   contents: posts
   sort: "date desc"

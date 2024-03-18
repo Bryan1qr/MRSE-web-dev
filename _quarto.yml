@@ -1,18 +1,22 @@
 project:
   type: website
 website:
-  twitter-card: true
+  # page-footer:
+  #   left: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
   # margin-header: suscribe.html
-  cookie-consent:
-    type: express
-    style: headline
-    palette: dark
+  # cookie-consent:
+  #   type: express
+  #   style: headline
+  #   palette: dark
+  back-to-top-navigation: true
   google-analytics:
     tracking-id: "G-444BCYE4CQ"
     anonymize-ip: true
   title: "MRSE-H"
   favicon: iconoxd.png
   navbar:
+    logo: logo_eps.png
+    collapse-below: sm
     left:
       - fotos.qmd
       - noticias.qmd
@@ -25,8 +29,8 @@ website:
 format:
   html:
     theme: 
-      light: cosmo
-      dark: darkly
+      light: flatly
+      dark: cyborg
     css: styles.css
 
 editor: visual
