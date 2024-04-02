@@ -17,11 +17,9 @@ website:
   navbar:
     logo: logo_eps.png
     collapse-below: sm
-    left:
-      - fotos.qmd
-      - noticias.qmd
+    right:
       - Datos de monitoreo.qmd
-    links:
+      - noticias.qmd
       - icon: github
         href: https://github.com/Bryan1qr/MRSE-web-dev/
       - icon: twitter
