@@ -22,6 +22,8 @@ library(plotly)
 ```{r}
 #| echo: false
 #| title: "Año 2023"
+#| warning: false
+#| message: false
 #### PREPARACIÓN DE LAS BASES DE DATOS:
 # Carga de la base de datos:
 df <- read.csv("data_marzo")
@@ -86,6 +88,8 @@ ggplotly(p=m2)
 #| echo: false
 #| title: "Año 2024"
 #| padding: 0px
+#| warning: false
+#| message: false
 
 df5 <- df2024
 names(df5) <- c("fecha1","fecha3", "Precipitacion")
@@ -161,6 +165,13 @@ dfn2024 <- data.frame(
    openxlsx::write.xlsx("2024.xlsx")
 ```
 
+```{r}
+#| title: NDVI
+#| warning: false
+#| message: false
+#| echo: false
+knitr::include_graphics("_site/mapas.gif")
+```
 
 ## Column {width="35%"}
 

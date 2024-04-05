@@ -18,6 +18,7 @@ website:
     logo: logo_eps.png
     collapse-below: sm
     right:
+      - Presentación.qmd
       - Datos de monitoreo.qmd
       - noticias.qmd
       - icon: github
@@ -26,10 +27,9 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme: 
+    theme:
       light: flatly
-      dark: cyborg
+      dark: darkly
     css: styles.css
-
 editor: visual
 

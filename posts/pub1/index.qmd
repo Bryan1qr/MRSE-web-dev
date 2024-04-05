@@ -1,8 +1,7 @@
 ---
 title: "EPS ILO S.A. avanza en la implementación de los MRSE-H para conservar los servicios ecosistémicos hídricos"
-author: "Equipo MRSE"
 date: "2022-09-27"
-categories: [MRSE-H, setiembre, 2022]
+categories: [setiembre, 2022]
 ---
 
 [![](thumbnail.jpg)](javascript:void(window.open('thumbnail.jpg','','width=600,height=400').onunload%20=%20function()%7Bwindow.history.back();%7D))
