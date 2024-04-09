@@ -1,9 +1,8 @@
 ---
 title: "Monitoreo hidrológico"
-editor: source
 format: 
   dashboard:
-    orientation: columns
+    orientation: columns 
 ---
 
 ```{r}
@@ -17,7 +16,6 @@ library(plotly)
 ```
 
 ## Column {.tabset width="65%"}
-
 
 ```{r}
 #| echo: false
@@ -83,7 +81,6 @@ m2 <- df4 %>% ggplot(aes(x=factor(fecha3),y=Precipitacion))+
 ggplotly(p=m2)
 ```
 
-
 ```{r}
 #| echo: false
 #| title: "Año 2024"
@@ -114,7 +111,6 @@ m3 <- df5 %>% ggplot(aes(x=factor(fecha3),
 
 ggplotly(p=m3)
 ```
-
 
 ```{r}
 #| message: false
@@ -199,37 +195,56 @@ Descarga de datos
 | Datos diarios de precipitación del 2024 | [2024.xlsx](2024.xlsx)     |
 | Gráficos de valores diarios mensuales   | [Reporte.pdf](Reporte.pdf) |
 
-
-
 <!-- ```{r} -->
+
 <!-- #| content: valuebox -->
+
 <!-- #| title: "Inicio de registro" -->
 
 <!-- list( -->
+
 <!--   icon = "droplet", -->
+
 <!--   color = "primary", -->
+
 <!--   value = as.character(min(df2$date)) -->
+
 <!-- ) -->
+
 <!-- ``` -->
 
 <!-- ```{r} -->
+
 <!-- #| content: valuebox -->
+
 <!-- #| title: "Último dato descarcargado" -->
 
 <!-- list( -->
+
 <!--   icon = "droplet-half", -->
+
 <!--   color = "primary", -->
+
 <!--   value = as.character(max(df2$date)) -->
+
 <!-- ) -->
+
 <!-- ``` -->
 
 <!-- ```{r} -->
+
 <!-- #| content: valuebox -->
+
 <!-- #| title: "Precipitación acumulada total" -->
 
 <!-- list( -->
+
 <!--   icon = "droplet-fill", -->
+
 <!--   color = "primary", -->
+
 <!--   value = paste(sum(df2$pp), "mm") -->
+
 <!-- ) -->
+
 <!-- ``` -->
