@@ -2,6 +2,32 @@
 about: jolla
 ---
 
-![](mrse-logo.png)
+<!-- ![](mrse-logo.png) -->
 
-Hola. Aquí te presentamos la página web de **MRSE-H** (Mecanismos de Retribución por Servicios Ecosistémicos Hídricos) de la EPS Ilo S.A.
+<!-- Hola. Aquí te presentamos la página web de **MRSE-H** (Mecanismos de Retribución por Servicios Ecosistémicos Hídricos) de la EPS Ilo S.A. -->
+
+```{=HTML}
+<head>
+<link rel="stylesheet" href="css/app.css">
+    <script defer src="js/app.js" ></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js"></script>
+</head>
+<div class="carrousel">
+        <div class="grande">
+            <img src="xd.jpg" alt="Imagen 1" class="img">
+            <img src="xd2.jpg" alt="Imagen 2" class="img">
+            <img src="xd3.jpg" alt="Imagen 3" class="img">
+            <img src="xd4.jpg" alt="Imagen 4" class="img">
+            <img src="xd.jpg" alt="Imagen 5" class="img">
+        </div>
+
+        <ul class="puntos">
+            <li class="punto activo"></li>
+            <li class="punto"></li>
+            <li class="punto"></li>
+            <li class="punto"></li>
+            <li class="punto"></li>
+        </ul>
+    </div>
+```
+
